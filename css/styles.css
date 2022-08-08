@@ -1,0 +1,148 @@
+body {
+  background-color: #F6F7D7;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #F6F7D7;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+  color: #FF9F29;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #3EC1D3;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted lightgrey 6px;
+  border-bottom: none;
+  margin: 100px auto;
+  width: 3%;
+}
+
+.skills {
+  margin-bottom: 150px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.cooking-h3 {
+  margin-top: 200px;
+}
+
+.footer-link {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+  margin: 20px 25px auto;
+  color: #3EC1D3;
+}
+
+.footer-link:hover {
+  color: #EAF6F6;
+}
+
+.copyright {
+  color: #EAF6F6;
+  padding-top: 40px;
+  font-size: 0.75rem;
+}
+
+.top-container {
+  background-color: #3EC1D3;
+  position: relative;
+  padding-top: 100px;
+  margin-bottom: 100px;
+}
+
+.middle-container {
+
+}
+
+.profile-p {
+  margin: auto;
+  width: 30%;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.contact-me {
+  margin: auto auto 100px;
+  line-height: 3;
+}
+
+.bottom-container {
+  background-color: #11999E;
+  padding: 50px 0 20px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 500px;
+  top: 90px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 500px;
+  bottom: 350px;
+}
+
+.profile-picture {
+  width: 15%;
+}
+
+.computer-png {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.saute-png {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.btn {
+  -webkit-border-radius: 25;
+  -moz-border-radius: 25;
+  border-radius: 25px;
+  font-family: 'Montserrat', sans-serif;
+  color: #F6F7D7;
+  font-size: 20px;
+  background: #FF9A00;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #FF165D;
+  text-decoration: none;
+}
